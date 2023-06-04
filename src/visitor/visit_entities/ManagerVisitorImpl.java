@@ -1,6 +1,6 @@
 package visitor.visit_entities;
 
-import visitor.entities.Manager;
+import visitor.managers.Manager;
 
 import java.util.HashMap;
 import java.util.List;

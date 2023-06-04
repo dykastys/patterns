@@ -1,8 +1,8 @@
 package visitor;
 
-import visitor.entities.BackendManager;
-import visitor.entities.FrontendManager;
-import visitor.entities.Manager;
+import visitor.managers.BackendManager;
+import visitor.managers.FrontendManager;
+import visitor.managers.Manager;
 import visitor.visit_entities.ManagerVisitor;
 import visitor.visit_entities.ManagerVisitorImpl;
 

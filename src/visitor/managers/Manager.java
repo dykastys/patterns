@@ -1,4 +1,4 @@
-package visitor.entities;
+package visitor.managers;
 
 public interface Manager {
 
