@@ -12,7 +12,7 @@ import factory.images.Image;
 public class FactoryCollider {
 
     public static void main(String[] args) {
-       Image docImage = getImageByDoc(DocType.DOCX);
+        Image docImage = getImageByDoc(DocType.DOCX);
         Image pdfImage = getImageByDoc(DocType.PDF);
         Image xlxImage = getImageByDoc(DocType.XLX);
 
