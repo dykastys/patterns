@@ -7,7 +7,7 @@ import abstract_factory.deliverymans.DeliverymanType;
 import abstract_factory.orders.Order;
 import abstract_factory.orders.OrderType;
 
-/*
+/**
 * Для создания множеств взаимосвязанных или взаимозависимых объектов
 * без жёсткой привязки к конкретным классам
 * */

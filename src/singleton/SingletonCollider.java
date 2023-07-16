@@ -1,6 +1,6 @@
 package singleton;
 
-/*
+/**
 * Создание единственного объекта класса
 * */
 public class SingletonCollider {

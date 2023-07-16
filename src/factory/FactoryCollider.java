@@ -5,7 +5,7 @@ import factory.factory_entities.ImageFactory;
 import factory.factory_entities.ImageFactoryImpl;
 import factory.images.Image;
 
-/*
+/**
  * Шаблон Factory нужен, когда необходимо создавать объекты различных классов одного интерфейса.
  * Так же, используем, когда где-то нужно использовать SWITCH CASE.
  * */

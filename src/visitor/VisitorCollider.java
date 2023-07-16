@@ -9,7 +9,7 @@ import visitor.visit_entities.ManagerVisitorImpl;
 import java.util.Arrays;
 import java.util.List;
 
-/*
+/**
 * Шаблон Visitor используется для посещения классом Visitor группы объектов без их изменения
 * */
 public class VisitorCollider {
